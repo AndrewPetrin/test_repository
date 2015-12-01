@@ -1,1 +1,2 @@
 Some data has been added.
+Another one string has been added to the document.
